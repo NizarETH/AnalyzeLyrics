@@ -1,0 +1,35 @@
+amour:
+love, heart, romance, passion, forever, tender, kiss, couple, soulmate, affection, amour, cœur, romance, passion, pour toujours, tendre, baiser, couple, âme sœur, affection
+
+tristesse:
+sad, cry, lost, alone, empty, dark, tears, pain, despair, lonely, broken, tristesse, pleurer, perdu, seul, vide, sombre, larmes, douleur, désespoir, solitaire, brisé
+
+espoir:
+hope, dream, future, light, believe, tomorrow, optimism, chance, fight, courage, espoir, rêve, futur, lumière, croire, demain, optimisme, chance, lutte, courage
+
+rébellion:
+fight, war, rebel, freedom, resist, resistance, defiance, insurgency, riot, anarchy, rébellion, combat, guerre, rebelle, liberté, résister, résistance, défi, insurgé, émeute, anarchie
+
+joie:
+happy, joy, smile, laugh, sunshine, pleasure, celebrate, happiness, cheerful, bliss, joie, heureux, sourire, rire, soleil, plaisir, célébrer, bonheur, gai, félicité
+
+solitude:
+alone, lonely, isolation, abandoned, forsaken, deserted, void, solitude, seul, isolé, abandonné, délaissé, désert, vide
+
+liberté:
+freedom, independence, liberty, autonomy, choice, escape, rights, self-determination, liberté, indépendance, autonomie, choix, évasion, droits, autodétermination
+
+violence:
+fight, blood, rage, war, death, pain, hatred, hurt, attack, battle, destruction, violence, combat, sang, rage, guerre, mort, douleur, haine, blessure, attaque, bataille, destruction
+
+nature:
+nature, earth, wild, forest, mountain, sea, sky, sun, rain, tree, ocean, wind, nature, terre, sauvage, forêt, montagne, mer, ciel, soleil, pluie, arbre, océan, vent
+
+argent:
+money, wealth, rich, gold, luxury, success, cash, bills, fortune, argent, richesse, riche, or, luxe, succès, argent liquide, factures, fortune
+
+réflexion:
+thought, mind, question, philosophy, wonder, contemplation, introspection, réflexion, pensée, esprit, question, philosophie, émerveillement, contemplation, introspection
+
+spiritualité:
+soul, faith, spirit, belief, god, peace, holy, serenity, spiritualité, âme, foi, esprit, croyance, dieu, paix, saint, sérénité
